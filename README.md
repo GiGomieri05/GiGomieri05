@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/28292623-0754-4e1f-9146-60461a0585b7" /> <br/>
+<img src="https://github.com/user-attachments/assets/dcfbf408-00c4-48cc-aec1-26201ff05287" /> <br/>
 
 ## Programming Languages
 <div style="display: inline_block"><br/>
