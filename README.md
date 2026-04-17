@@ -16,9 +16,9 @@
 
 ## 🚀 Recordista Nacional de Foguetes
 
-> **488.5 m em linha reta** — maior distância histórica de todas as edições MOBFOG e Jornada Brasileira de Foguetes.  
-> 46ª Jornada Brasileira de Foguetes · Copa Paulista Champion · AMERIFOG Champion  
-> 🥇 OBA · OBR · OGB — medalhas de ouro (2022)
+> **488.5 m** — MOBFOG e Jornada Brasileira de Foguetes.  
+> 46ª Jornada Brasileira de Foguetes · Copa Paulista Champion · 2x AMERIFOG Champion  
+> 🥇 26 premiações (e contando...)
 
 ---
 
@@ -32,7 +32,6 @@ giovanni = {
     "teaching":   "Escola Chroma — Tecnologia (sábados)",
     "programs":   ["Start Sebrae", "FACE Facens", "PIEMP 2026 / CNPq"],
     "interests":  ["Rocketry 🚀", "Robotics 🤖", "Astronomy 🔭", "EdTech 🎓"],
-    "currently":  "Building the Olimpíadas Regionais portal @ Next.js + Vercel"
 }
 ```
 
@@ -62,30 +61,6 @@ giovanni = {
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git"/>
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux"/>
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" title="Vercel"/>
-</div>
-
----
-
-## 📌 Projetos em Destaque
-
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| 🌐 **site-olimpiadas-regionais** | Portal oficial da rede de Olimpíadas Regionais (OBA/OBAFOG) — 5 cidades em 2026 | Next.js · Vercel |
-| 🎓 **RDB Futura MVP** | Plataforma edtech B2B com missões científicas para engajamento escolar | Django · React |
-| 🤖 **AI Calendar App** | Agenda com IA (Groq + Llama 3.3 70B) para reorganização de rotina | React · Vite · Groq |
-| 🧰 **NF-e XML Processor** | Automação de notas fiscais e explosão de kits SKU com GUI tkinter | Python · PyInstaller |
-
----
-
-## 🏅 Olimpíadas Regionais — Impacto
-
-<div align="center">
-
-![13.678 alunos](https://img.shields.io/badge/👩‍🎓_Alunos-13.678-58a6ff?style=for-the-badge&labelColor=161b22)
-![187 escolas](https://img.shields.io/badge/🏫_Escolas-187-3fb950?style=for-the-badge&labelColor=161b22)
-![207 medalhistas](https://img.shields.io/badge/🥇_Medalhistas-207-f0883e?style=for-the-badge&labelColor=161b22)
-![5 cidades](https://img.shields.io/badge/📍_Cidades_2026-5-bc8cff?style=for-the-badge&labelColor=161b22)
-
 </div>
 
 ---
