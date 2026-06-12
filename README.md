@@ -7,7 +7,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Computer+Engineering+%40+Facens;Founder+%40+RDB+Futura;National+Rocketry+Record+and+Champion+%F0%9F%9A%80;488.5m+%E2%80%94+all-time+MOBFOG+%2F+Jornada+record)
 
 [![Sorocaba](https://img.shields.io/badge/📍_Sorocaba-Brasil-161b22?style=flat-square&labelColor=161b22&color=30363d)](https://github.com/GiGomieri05)
-[![Status](https://img.shields.io/badge/status-2026-world-cup-3fb950?style=flat-square&labelColor=161b22)](https://github.com/GiGomieri05)
+[![Status](https://img.shields.io/badge/status-building_in_public-3fb950?style=flat-square&labelColor=161b22)](https://github.com/GiGomieri05)
 [![Facens](https://img.shields.io/badge/Facens-Bolsista_Integral-58a6ff?style=flat-square&labelColor=161b22)](https://facens.br)
 
 </div>
