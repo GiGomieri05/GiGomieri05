@@ -228,7 +228,7 @@ I am especially interested in solving problems that require combining different 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-GIOVANNI%20GOMIERI-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giovannigomieri)
-[![Email](https://img.shields.io/badge/EMAIL-CONTATO%40RDBFUTURA.COM.BR-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@rdbfutura.com.br)
+[![Email](https://img.shields.io/badge/EMAIL-GIOVANNI%40RDBFUTURA.COM.BR-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovanni@rdbfutura.com.br)
 [![RDB Futura](https://img.shields.io/badge/RDB%20FUTURA-VISIT%20SITE-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://rdbfutura.com.br)
 
 <br /><br />
