@@ -1,0 +1,225 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="400" viewBox="0 0 840 400" role="img" aria-label="Giovanni de Luca Gomieri — ASCII rocket launch">
+<title>Giovanni de Luca Gomieri — ASCII rocket launch</title>
+<style>
+text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace;}
+.m{fill:#8b949e} .d{fill:#484f58} .t{fill:#c9d1d9} .b{fill:#58a6ff} .g{fill:#3fb950} .o{fill:#f0883e} .y{fill:#e3b341} .r{fill:#ff7b72} .p{fill:#bc8cff}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes twinkle{0%,100%{opacity:.25}50%{opacity:1}}
+.blink{animation:blink 1.05s steps(1,end) infinite}
+@keyframes parallax{0.000%{transform:translateY(0px);opacity:1} 39.286%{transform:translateY(0.00px);opacity:1} 41.071%{transform:translateY(0.36px);opacity:1} 42.857%{transform:translateY(1.43px);opacity:1} 44.643%{transform:translateY(3.21px);opacity:1} 46.429%{transform:translateY(5.71px);opacity:1} 48.214%{transform:translateY(8.93px);opacity:1} 50.000%{transform:translateY(12.86px);opacity:1} 51.786%{transform:translateY(17.50px);opacity:1} 53.571%{transform:translateY(22.86px);opacity:1} 55.357%{transform:translateY(28.93px);opacity:1} 57.143%{transform:translateY(35.71px);opacity:1} 58.929%{transform:translateY(43.21px);opacity:1} 60.714%{transform:translateY(51.43px);opacity:1} 62.500%{transform:translateY(60.36px);opacity:1} 64.286%{transform:translateY(70.00px);opacity:1} 91.429%{transform:translateY(70px);opacity:1} 94.286%{transform:translateY(70px);opacity:0} 94.357%{transform:translateY(0px);opacity:0} 100.000%{transform:translateY(0px);opacity:1}}
+@keyframes arm{0.000%{opacity:1} 21.429%{opacity:1} 23.214%{opacity:0} 93.929%{opacity:0} 95.714%{opacity:1} 100.000%{opacity:1}}
+@keyframes trail{0.000%{transform:scaleY(0);opacity:0} 39.286%{transform:scaleY(0);opacity:1} 39.286%{transform:scaleY(0.000);opacity:1} 41.071%{transform:scaleY(0.005);opacity:1} 42.857%{transform:scaleY(0.020);opacity:1} 44.643%{transform:scaleY(0.046);opacity:1} 46.429%{transform:scaleY(0.082);opacity:1} 48.214%{transform:scaleY(0.128);opacity:1} 50.000%{transform:scaleY(0.184);opacity:1} 51.786%{transform:scaleY(0.250);opacity:1} 53.571%{transform:scaleY(0.327);opacity:1} 55.357%{transform:scaleY(0.413);opacity:1} 57.143%{transform:scaleY(0.510);opacity:1} 58.929%{transform:scaleY(0.617);opacity:1} 60.714%{transform:scaleY(0.735);opacity:1} 62.500%{transform:scaleY(0.862);opacity:1} 64.286%{transform:scaleY(1.000);opacity:1} 66.429%{transform:scaleY(1);opacity:.8} 80.000%{transform:scaleY(1);opacity:0} 100.000%{transform:scaleY(0);opacity:0}}
+@keyframes flick{0%{opacity:1}33.3%{opacity:0}100%{opacity:0}}
+@keyframes ign{0.000%{opacity:0} 32.071%{opacity:0} 32.143%{opacity:1} 65.714%{opacity:1} 65.786%{opacity:0} 100.000%{opacity:0}}
+@keyframes fly{0.000%{transform:translate(0px,0px);opacity:1} 25.714%{transform:translate(0px,0px);opacity:1} 27.143%{transform:translate(-0.6px,0px);opacity:1} 28.571%{transform:translate(0.6px,0px);opacity:1} 30.000%{transform:translate(-0.6px,0px);opacity:1} 32.143%{transform:translate(0.96px,0px);opacity:1} 33.571%{transform:translate(-0.96px,0px);opacity:1} 35.000%{transform:translate(0.96px,0px);opacity:1} 36.429%{transform:translate(-0.96px,0px);opacity:1} 37.857%{transform:translate(0.96px,0px);opacity:1} 39.286%{transform:translate(0px,-0.00px);opacity:1} 41.071%{transform:translate(0px,-1.84px);opacity:1} 42.857%{transform:translate(0px,-7.35px);opacity:1} 44.643%{transform:translate(0px,-16.53px);opacity:1} 46.429%{transform:translate(0px,-29.39px);opacity:1} 48.214%{transform:translate(0px,-45.92px);opacity:1} 50.000%{transform:translate(0px,-66.12px);opacity:1} 51.786%{transform:translate(0px,-90.00px);opacity:1} 53.571%{transform:translate(0px,-117.55px);opacity:1} 55.357%{transform:translate(0px,-148.78px);opacity:1} 57.143%{transform:translate(0px,-183.67px);opacity:1} 58.929%{transform:translate(0px,-222.24px);opacity:1} 60.714%{transform:translate(0px,-264.49px);opacity:1} 62.500%{transform:translate(0px,-310.41px);opacity:1} 64.286%{transform:translate(0px,-360.00px);opacity:1} 94.286%{transform:translate(0px,-360.0px);opacity:0} 94.357%{transform:translate(0px,0px);opacity:0} 98.571%{transform:translate(0px,0px);opacity:1} 100.000%{transform:translate(0px,0px);opacity:1}}
+@keyframes smoke0{0.000%{transform:translate(0px,0px);opacity:0} 32.786%{transform:translate(0px,0px);opacity:0} 32.857%{transform:translate(0px,0px);opacity:.95} 42.857%{transform:translate(-38.5px,3.0px);opacity:.8} 82.143%{transform:translate(-70.0px,-4.0px);opacity:0} 100.000%{transform:translate(-70.0px,-4.0px);opacity:0}}
+@keyframes smoke1{0.000%{transform:translate(0px,0px);opacity:0} 33.643%{transform:translate(0px,0px);opacity:0} 33.714%{transform:translate(0px,0px);opacity:.95} 43.714%{transform:translate(38.5px,-2.0px);opacity:.8} 82.143%{transform:translate(70.0px,-14.0px);opacity:0} 100.000%{transform:translate(70.0px,-14.0px);opacity:0}}
+@keyframes smoke2{0.000%{transform:translate(0px,0px);opacity:0} 34.500%{transform:translate(0px,0px);opacity:0} 34.571%{transform:translate(0px,0px);opacity:.95} 44.571%{transform:translate(-66.0px,-9.0px);opacity:.8} 82.143%{transform:translate(-120.0px,-28.0px);opacity:0} 100.000%{transform:translate(-120.0px,-28.0px);opacity:0}}
+@keyframes smoke3{0.000%{transform:translate(0px,0px);opacity:0} 35.357%{transform:translate(0px,0px);opacity:0} 35.429%{transform:translate(0px,0px);opacity:.95} 45.429%{transform:translate(68.8px,-7.0px);opacity:.8} 82.143%{transform:translate(125.0px,-24.0px);opacity:0} 100.000%{transform:translate(125.0px,-24.0px);opacity:0}}
+@keyframes smoke4{0.000%{transform:translate(0px,0px);opacity:0} 36.214%{transform:translate(0px,0px);opacity:0} 36.286%{transform:translate(0px,0px);opacity:.95} 46.286%{transform:translate(-22.0px,-15.0px);opacity:.8} 82.143%{transform:translate(-40.0px,-40.0px);opacity:0} 100.000%{transform:translate(-40.0px,-40.0px);opacity:0}}
+@keyframes smoke5{0.000%{transform:translate(0px,0px);opacity:0} 37.071%{transform:translate(0px,0px);opacity:0} 37.143%{transform:translate(0px,0px);opacity:.95} 47.143%{transform:translate(24.8px,-17.0px);opacity:.8} 82.143%{transform:translate(45.0px,-44.0px);opacity:0} 100.000%{transform:translate(45.0px,-44.0px);opacity:0}}
+@keyframes cd0{0.000%{opacity:1} 10.714%{opacity:1} 10.786%{opacity:0} 94.214%{opacity:0} 94.286%{opacity:1} 100.000%{opacity:1}}
+@keyframes cd1{0.000%{opacity:0} 10.643%{opacity:0} 10.714%{opacity:1} 21.429%{opacity:1} 21.500%{opacity:0} 100.000%{opacity:0}}
+@keyframes cd2{0.000%{opacity:0} 21.357%{opacity:0} 21.429%{opacity:1} 32.143%{opacity:1} 32.214%{opacity:0} 100.000%{opacity:0}}
+@keyframes cd3{0.000%{opacity:0} 32.071%{opacity:0} 32.143%{opacity:1} 39.286%{opacity:1} 39.357%{opacity:0} 100.000%{opacity:0}}
+@keyframes cd4{0.000%{opacity:0} 39.214%{opacity:0} 39.286%{opacity:1} 64.286%{opacity:1} 64.357%{opacity:0} 100.000%{opacity:0}}
+@keyframes cd5{0.000%{opacity:0} 64.214%{opacity:0} 64.286%{opacity:1} 94.286%{opacity:1} 94.357%{opacity:0} 100.000%{opacity:0}}
+@keyframes gfill{0.000%{transform:scaleY(0)} 39.286%{transform:scaleY(0)} 39.286%{transform:scaleY(0.0000)} 41.071%{transform:scaleY(0.0050)} 42.857%{transform:scaleY(0.0199)} 44.643%{transform:scaleY(0.0449)} 46.429%{transform:scaleY(0.0798)} 48.214%{transform:scaleY(0.1246)} 50.000%{transform:scaleY(0.1794)} 51.786%{transform:scaleY(0.2442)} 53.571%{transform:scaleY(0.3190)} 55.357%{transform:scaleY(0.4038)} 57.143%{transform:scaleY(0.4985)} 58.929%{transform:scaleY(0.6031)} 60.714%{transform:scaleY(0.7178)} 62.500%{transform:scaleY(0.8424)} 64.286%{transform:scaleY(0.9770)} 94.286%{transform:scaleY(.977)} 97.857%{transform:scaleY(0)} 100.000%{transform:scaleY(0)}}
+@keyframes alt0{0.000%{opacity:1} 41.071%{opacity:1} 41.143%{opacity:0} 94.214%{opacity:0} 94.286%{opacity:1} 100.000%{opacity:1}}
+@keyframes alt1{0.000%{opacity:0} 41.000%{opacity:0} 41.071%{opacity:1} 42.857%{opacity:1} 42.929%{opacity:0} 100.000%{opacity:0}}
+@keyframes alt2{0.000%{opacity:0} 42.786%{opacity:0} 42.857%{opacity:1} 44.643%{opacity:1} 44.714%{opacity:0} 100.000%{opacity:0}}
+@keyframes alt3{0.000%{opacity:0} 44.571%{opacity:0} 44.643%{opacity:1} 46.429%{opacity:1} 46.500%{opacity:0} 100.000%{opacity:0}}
+@keyframes alt4{0.000%{opacity:0} 46.357%{opacity:0} 46.429%{opacity:1} 48.214%{opacity:1} 48.286%{opacity:0} 100.000%{opacity:0}}
+@keyframes alt5{0.000%{opacity:0} 48.143%{opacity:0} 48.214%{opacity:1} 50.000%{opacity:1} 50.071%{opacity:0} 100.000%{opacity:0}}
+@keyframes alt6{0.000%{opacity:0} 49.929%{opacity:0} 50.000%{opacity:1} 51.786%{opacity:1} 51.857%{opacity:0} 100.000%{opacity:0}}
+@keyframes alt7{0.000%{opacity:0} 51.714%{opacity:0} 51.786%{opacity:1} 53.571%{opacity:1} 53.643%{opacity:0} 100.000%{opacity:0}}
+@keyframes alt8{0.000%{opacity:0} 53.500%{opacity:0} 53.571%{opacity:1} 55.357%{opacity:1} 55.429%{opacity:0} 100.000%{opacity:0}}
+@keyframes alt9{0.000%{opacity:0} 55.286%{opacity:0} 55.357%{opacity:1} 57.143%{opacity:1} 57.214%{opacity:0} 100.000%{opacity:0}}
+@keyframes alt10{0.000%{opacity:0} 57.071%{opacity:0} 57.143%{opacity:1} 58.929%{opacity:1} 59.000%{opacity:0} 100.000%{opacity:0}}
+@keyframes alt11{0.000%{opacity:0} 58.857%{opacity:0} 58.929%{opacity:1} 60.714%{opacity:1} 60.786%{opacity:0} 100.000%{opacity:0}}
+@keyframes alt12{0.000%{opacity:0} 60.643%{opacity:0} 60.714%{opacity:1} 62.500%{opacity:1} 62.571%{opacity:0} 100.000%{opacity:0}}
+@keyframes alt13{0.000%{opacity:0} 62.429%{opacity:0} 62.500%{opacity:1} 64.286%{opacity:1} 64.357%{opacity:0} 100.000%{opacity:0}}
+@keyframes alt14{0.000%{opacity:0} 64.214%{opacity:0} 64.286%{opacity:1} 94.286%{opacity:1} 94.357%{opacity:0} 100.000%{opacity:0}}
+@keyframes log0{0.000%{opacity:0} 1.786%{opacity:0} 2.857%{opacity:1} 94.286%{opacity:1} 95.357%{opacity:0} 100.000%{opacity:0}}
+@keyframes log1{0.000%{opacity:0} 20.357%{opacity:0} 21.429%{opacity:1} 94.286%{opacity:1} 95.357%{opacity:0} 100.000%{opacity:0}}
+@keyframes log2{0.000%{opacity:0} 31.071%{opacity:0} 32.143%{opacity:1} 94.286%{opacity:1} 95.357%{opacity:0} 100.000%{opacity:0}}
+@keyframes log3{0.000%{opacity:0} 38.929%{opacity:0} 40.000%{opacity:1} 94.286%{opacity:1} 95.357%{opacity:0} 100.000%{opacity:0}}
+@keyframes log4{0.000%{opacity:0} 51.786%{opacity:0} 52.857%{opacity:1} 94.286%{opacity:1} 95.357%{opacity:0} 100.000%{opacity:0}}
+@keyframes log5{0.000%{opacity:0} 63.214%{opacity:0} 64.286%{opacity:1} 94.286%{opacity:1} 95.357%{opacity:0} 100.000%{opacity:0}}
+@keyframes log6{0.000%{opacity:0} 70.357%{opacity:0} 71.429%{opacity:1} 94.286%{opacity:1} 95.357%{opacity:0} 100.000%{opacity:0}}
+</style>
+<rect x="0.5" y="0.5" width="839.0" height="399.0" rx="14" fill="#0d1117" stroke="#30363d"/>
+<defs><clipPath id="scene"><rect x="16" y="16" width="392" height="368" rx="10"/></clipPath><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#060a12"/><stop offset="1" stop-color="#101826"/></linearGradient><linearGradient id="trail" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#f0883e" stop-opacity=".0"/><stop offset=".15" stop-color="#f0883e" stop-opacity=".55"/><stop offset="1" stop-color="#e3b341" stop-opacity=".9"/></linearGradient><linearGradient id="fadeTop" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#060a12"/><stop offset=".55" stop-color="#060a12" stop-opacity=".85"/><stop offset="1" stop-color="#060a12" stop-opacity="0"/></linearGradient><linearGradient id="gauge" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#3fb950"/><stop offset="1" stop-color="#58a6ff"/></linearGradient></defs>
+<rect x="16" y="16" width="392" height="368" rx="10" fill="url(#sky)" stroke="#30363d"/>
+<g clip-path="url(#scene)">
+<g style="animation:parallax 14.0s linear infinite"><circle cx="60.8" cy="178.1" r="0.8" fill="#c9d1d9" style="animation:twinkle 3.93s ease-in-out -2.67s infinite"/>
+<circle cx="199.4" cy="193.8" r="0.8" fill="#58a6ff" style="animation:twinkle 3.79s ease-in-out -4.04s infinite"/>
+<circle cx="227.5" cy="26.5" r="0.6" fill="#c9d1d9" style="animation:twinkle 3.88s ease-in-out -3.29s infinite"/>
+<circle cx="170.2" cy="36.9" r="0.8" fill="#c9d1d9" style="animation:twinkle 2.63s ease-in-out -2.48s infinite"/>
+<circle cx="213.9" cy="45.0" r="0.6" fill="#58a6ff" style="animation:twinkle 4.67s ease-in-out -3.59s infinite"/>
+<circle cx="293.0" cy="72.5" r="1.0" fill="#c9d1d9" style="animation:twinkle 3.78s ease-in-out -3.68s infinite"/>
+<circle cx="186.5" cy="-34.7" r="0.8" fill="#c9d1d9" style="animation:twinkle 4.86s ease-in-out -3.95s infinite"/>
+<circle cx="293.1" cy="72.4" r="0.6" fill="#58a6ff" style="animation:twinkle 4.83s ease-in-out -0.01s infinite"/>
+<circle cx="161.0" cy="6.3" r="0.8" fill="#58a6ff" style="animation:twinkle 4.33s ease-in-out -1.50s infinite"/>
+<circle cx="179.5" cy="-44.8" r="0.8" fill="#58a6ff" style="animation:twinkle 3.14s ease-in-out -3.97s infinite"/>
+<circle cx="168.3" cy="86.4" r="1.3" fill="#a5d6ff" style="animation:twinkle 3.01s ease-in-out -4.39s infinite"/>
+<circle cx="112.6" cy="100.5" r="0.6" fill="#c9d1d9" style="animation:twinkle 2.78s ease-in-out -1.22s infinite"/>
+<circle cx="205.1" cy="7.6" r="0.8" fill="#a5d6ff" style="animation:twinkle 2.27s ease-in-out -1.41s infinite"/>
+<circle cx="39.6" cy="-32.5" r="0.8" fill="#c9d1d9" style="animation:twinkle 3.84s ease-in-out -0.86s infinite"/>
+<circle cx="168.3" cy="149.7" r="1.3" fill="#58a6ff" style="animation:twinkle 4.32s ease-in-out -4.77s infinite"/>
+<circle cx="47.1" cy="214.3" r="0.6" fill="#58a6ff" style="animation:twinkle 2.63s ease-in-out -3.92s infinite"/>
+<circle cx="272.9" cy="121.6" r="0.8" fill="#c9d1d9" style="animation:twinkle 4.40s ease-in-out -0.25s infinite"/>
+<circle cx="342.8" cy="-42.3" r="0.8" fill="#c9d1d9" style="animation:twinkle 3.66s ease-in-out -0.24s infinite"/>
+<circle cx="361.6" cy="241.0" r="1.0" fill="#a5d6ff" style="animation:twinkle 2.50s ease-in-out -2.10s infinite"/>
+<circle cx="22.1" cy="112.5" r="0.8" fill="#c9d1d9" style="animation:twinkle 4.97s ease-in-out -3.54s infinite"/>
+<circle cx="268.1" cy="-25.2" r="0.6" fill="#c9d1d9" style="animation:twinkle 4.13s ease-in-out -2.54s infinite"/>
+<circle cx="263.9" cy="27.9" r="0.8" fill="#58a6ff" style="animation:twinkle 2.85s ease-in-out -1.30s infinite"/>
+<circle cx="349.8" cy="141.1" r="1.0" fill="#c9d1d9" style="animation:twinkle 4.41s ease-in-out -3.96s infinite"/>
+<circle cx="351.8" cy="52.8" r="0.6" fill="#c9d1d9" style="animation:twinkle 4.36s ease-in-out -1.96s infinite"/>
+<circle cx="44.5" cy="186.4" r="1.0" fill="#58a6ff" style="animation:twinkle 3.34s ease-in-out -0.16s infinite"/>
+<circle cx="270.5" cy="237.7" r="1.3" fill="#58a6ff" style="animation:twinkle 3.19s ease-in-out -2.79s infinite"/>
+<circle cx="151.5" cy="-48.5" r="1.3" fill="#c9d1d9" style="animation:twinkle 2.53s ease-in-out -0.97s infinite"/>
+<circle cx="332.3" cy="155.2" r="1.0" fill="#a5d6ff" style="animation:twinkle 2.51s ease-in-out -0.55s infinite"/>
+<circle cx="187.4" cy="223.4" r="0.8" fill="#c9d1d9" style="animation:twinkle 2.44s ease-in-out -3.27s infinite"/>
+<circle cx="274.6" cy="78.7" r="1.3" fill="#58a6ff" style="animation:twinkle 4.92s ease-in-out -0.79s infinite"/>
+<circle cx="158.5" cy="64.7" r="0.6" fill="#c9d1d9" style="animation:twinkle 2.84s ease-in-out -3.73s infinite"/>
+<circle cx="241.4" cy="-31.6" r="0.8" fill="#c9d1d9" style="animation:twinkle 2.25s ease-in-out -1.97s infinite"/>
+<circle cx="162.6" cy="255.3" r="0.8" fill="#c9d1d9" style="animation:twinkle 4.41s ease-in-out -0.09s infinite"/>
+<circle cx="129.2" cy="256.6" r="1.0" fill="#c9d1d9" style="animation:twinkle 2.92s ease-in-out -0.82s infinite"/>
+<circle cx="127.8" cy="-37.5" r="0.6" fill="#c9d1d9" style="animation:twinkle 3.51s ease-in-out -2.53s infinite"/>
+<circle cx="233.4" cy="74.2" r="0.6" fill="#58a6ff" style="animation:twinkle 4.12s ease-in-out -1.55s infinite"/>
+<circle cx="264.5" cy="69.8" r="0.6" fill="#58a6ff" style="animation:twinkle 4.95s ease-in-out -1.82s infinite"/>
+<circle cx="69.6" cy="172.4" r="0.6" fill="#a5d6ff" style="animation:twinkle 5.05s ease-in-out -0.04s infinite"/>
+<circle cx="249.2" cy="-39.7" r="0.8" fill="#c9d1d9" style="animation:twinkle 4.31s ease-in-out -3.65s infinite"/>
+<circle cx="273.1" cy="213.1" r="1.0" fill="#58a6ff" style="animation:twinkle 5.01s ease-in-out -2.00s infinite"/>
+<circle cx="268.8" cy="167.9" r="1.3" fill="#a5d6ff" style="animation:twinkle 5.36s ease-in-out -2.88s infinite"/>
+<circle cx="69.9" cy="46.6" r="0.8" fill="#c9d1d9" style="animation:twinkle 3.53s ease-in-out -1.36s infinite"/>
+<circle cx="192.2" cy="-46.9" r="0.8" fill="#c9d1d9" style="animation:twinkle 4.83s ease-in-out -4.16s infinite"/>
+<circle cx="321.7" cy="102.1" r="1.0" fill="#c9d1d9" style="animation:twinkle 2.51s ease-in-out -2.72s infinite"/>
+<circle cx="266.6" cy="22.5" r="1.3" fill="#58a6ff" style="animation:twinkle 5.09s ease-in-out -0.23s infinite"/>
+<circle cx="261.2" cy="23.8" r="0.8" fill="#c9d1d9" style="animation:twinkle 2.35s ease-in-out -3.95s infinite"/></g>
+<circle cx="278" cy="112" r="15" fill="#1b2433"/><circle cx="284" cy="107" r="15" fill="url(#sky)"/>
+<text x="78.70" y="168.00" textLength="23.40" lengthAdjust="spacingAndGlyphs" class="d" font-size="13" xml:space="preserve">|X|</text>
+<text x="78.70" y="182.00" textLength="23.40" lengthAdjust="spacingAndGlyphs" class="d" font-size="13" xml:space="preserve">|X|</text>
+<text x="78.70" y="196.00" textLength="23.40" lengthAdjust="spacingAndGlyphs" class="d" font-size="13" xml:space="preserve">|X|</text>
+<text x="78.70" y="210.00" textLength="23.40" lengthAdjust="spacingAndGlyphs" class="d" font-size="13" xml:space="preserve">|X|</text>
+<text x="78.70" y="224.00" textLength="23.40" lengthAdjust="spacingAndGlyphs" class="d" font-size="13" xml:space="preserve">|X|</text>
+<text x="78.70" y="238.00" textLength="23.40" lengthAdjust="spacingAndGlyphs" class="d" font-size="13" xml:space="preserve">|X|</text>
+<text x="78.70" y="252.00" textLength="23.40" lengthAdjust="spacingAndGlyphs" class="d" font-size="13" xml:space="preserve">|X|</text>
+<text x="78.70" y="266.00" textLength="23.40" lengthAdjust="spacingAndGlyphs" class="d" font-size="13" xml:space="preserve">|X|</text>
+<text x="78.70" y="280.00" textLength="23.40" lengthAdjust="spacingAndGlyphs" class="d" font-size="13" xml:space="preserve">|X|</text>
+<text x="78.70" y="294.00" textLength="23.40" lengthAdjust="spacingAndGlyphs" class="d" font-size="13" xml:space="preserve">|X|</text>
+<text x="78.70" y="308.00" textLength="23.40" lengthAdjust="spacingAndGlyphs" class="d" font-size="13" xml:space="preserve">|X|</text>
+<text x="78.70" y="322.00" textLength="23.40" lengthAdjust="spacingAndGlyphs" class="d" font-size="13" xml:space="preserve">|X|</text>
+<text x="78.70" y="336.00" textLength="23.40" lengthAdjust="spacingAndGlyphs" class="d" font-size="13" xml:space="preserve">|X|</text>
+<text x="78.70" y="350.00" textLength="23.40" lengthAdjust="spacingAndGlyphs" class="d" font-size="13" xml:space="preserve">|X|</text>
+<g style="animation:arm 14.0s linear infinite"><text x="102.10" y="210.00" textLength="15.60" lengthAdjust="spacingAndGlyphs" class="m" font-size="13" xml:space="preserve">==</text><text x="102.10" y="266.00" textLength="15.60" lengthAdjust="spacingAndGlyphs" class="m" font-size="13" xml:space="preserve">==</text></g>
+<rect x="181.5" y="-8.0" width="5" height="360.0" rx="2.5" fill="url(#trail)" style="transform-box:fill-box;transform-origin:50% 100%;animation:trail 14.0s linear infinite"/>
+<g style="animation:fly 14.0s linear infinite">
+<text x="180.10" y="140.00" textLength="7.80" lengthAdjust="spacingAndGlyphs" class="y" font-size="13" font-weight="700" xml:space="preserve">.</text>
+<text x="172.30" y="154.00" textLength="23.40" lengthAdjust="spacingAndGlyphs" class="t" font-size="13" font-weight="700" xml:space="preserve">/ \</text>
+<text x="164.50" y="168.00" textLength="39.00" lengthAdjust="spacingAndGlyphs" class="t" font-size="13" font-weight="700" xml:space="preserve">/   \</text>
+<text x="156.70" y="182.00" textLength="54.60" lengthAdjust="spacingAndGlyphs" class="t" font-size="13" font-weight="700" xml:space="preserve">/_____\</text>
+<text x="156.70" y="196.00" textLength="54.60" lengthAdjust="spacingAndGlyphs" class="t" font-size="13" font-weight="700" xml:space="preserve">|     |</text>
+<text x="156.70" y="210.00" textLength="54.60" lengthAdjust="spacingAndGlyphs" class="t" font-size="13" font-weight="700" xml:space="preserve">|     |</text>
+<text x="180.10" y="210.00" textLength="7.80" lengthAdjust="spacingAndGlyphs" class="b" font-size="13" font-weight="700" xml:space="preserve">O</text>
+<text x="156.70" y="224.00" textLength="54.60" lengthAdjust="spacingAndGlyphs" class="t" font-size="13" font-weight="700" xml:space="preserve">|     |</text>
+<text x="156.70" y="238.00" textLength="54.60" lengthAdjust="spacingAndGlyphs" class="t" font-size="13" font-weight="700" xml:space="preserve">|     |</text>
+<text x="172.30" y="238.00" textLength="23.40" lengthAdjust="spacingAndGlyphs" class="o" font-size="13" font-weight="700" xml:space="preserve">RDB</text>
+<text x="156.70" y="252.00" textLength="54.60" lengthAdjust="spacingAndGlyphs" class="t" font-size="13" font-weight="700" xml:space="preserve">|     |</text>
+<text x="148.90" y="266.00" textLength="70.20" lengthAdjust="spacingAndGlyphs" class="t" font-size="13" font-weight="700" xml:space="preserve">/|     |\</text>
+<text x="141.10" y="280.00" textLength="85.80" lengthAdjust="spacingAndGlyphs" class="t" font-size="13" font-weight="700" xml:space="preserve">/ |     | \</text>
+<text x="133.30" y="294.00" textLength="101.40" lengthAdjust="spacingAndGlyphs" class="t" font-size="13" font-weight="700" xml:space="preserve">/__|_____|__\</text>
+<text x="164.50" y="308.00" textLength="39.00" lengthAdjust="spacingAndGlyphs" class="m" font-size="13" font-weight="700" xml:space="preserve">/___\</text>
+<g style="animation:ign 14.0s linear infinite">
+<g style="animation:flick .36s steps(1,end) -0.00s infinite">
+<text x="164.50" y="322.00" textLength="39.00" lengthAdjust="spacingAndGlyphs" class="y" font-size="13" font-weight="700" xml:space="preserve">(\|/)</text>
+<text x="172.30" y="336.00" textLength="23.40" lengthAdjust="spacingAndGlyphs" class="o" font-size="13" font-weight="700" xml:space="preserve">\|/</text>
+<text x="180.10" y="350.00" textLength="7.80" lengthAdjust="spacingAndGlyphs" class="r" font-size="13" font-weight="700" xml:space="preserve">'</text>
+</g>
+<g style="animation:flick .36s steps(1,end) -0.12s infinite">
+<text x="164.50" y="322.00" textLength="39.00" lengthAdjust="spacingAndGlyphs" class="y" font-size="13" font-weight="700" xml:space="preserve">)/|\(</text>
+<text x="172.30" y="336.00" textLength="23.40" lengthAdjust="spacingAndGlyphs" class="o" font-size="13" font-weight="700" xml:space="preserve">/|\</text>
+<text x="180.10" y="350.00" textLength="7.80" lengthAdjust="spacingAndGlyphs" class="r" font-size="13" font-weight="700" xml:space="preserve">:</text>
+</g>
+<g style="animation:flick .36s steps(1,end) -0.24s infinite">
+<text x="164.50" y="322.00" textLength="39.00" lengthAdjust="spacingAndGlyphs" class="y" font-size="13" font-weight="700" xml:space="preserve">\\|//</text>
+<text x="172.30" y="336.00" textLength="23.40" lengthAdjust="spacingAndGlyphs" class="o" font-size="13" font-weight="700" xml:space="preserve">)|(</text>
+<text x="180.10" y="350.00" textLength="7.80" lengthAdjust="spacingAndGlyphs" class="r" font-size="13" font-weight="700" xml:space="preserve">V</text>
+</g>
+</g></g>
+<text x="117.70" y="356.00" textLength="117.00" lengthAdjust="spacingAndGlyphs" class="m" font-size="13" font-weight="700" xml:space="preserve">=====     =====</text>
+<text x="22.00" y="370.00" textLength="383.76" lengthAdjust="spacingAndGlyphs" class="d" font-size="11" xml:space="preserve">////////////////////////////////////////////////////////////</text>
+<rect x="16" y="358.0" width="392" height="368" fill="#0b0f17" opacity=".55"/>
+<g style="animation:smoke0 14.0s ease-out infinite"><text x="90.40" y="350.00" textLength="46.80" lengthAdjust="spacingAndGlyphs" class="m" font-size="13" xml:space="preserve">( ~  )</text></g>
+<g style="animation:smoke1 14.0s ease-out infinite"><text x="226.90" y="350.00" textLength="54.60" lengthAdjust="spacingAndGlyphs" class="m" font-size="13" xml:space="preserve">(  ~~ )</text></g>
+<g style="animation:smoke2 14.0s ease-out infinite"><text x="117.70" y="350.00" textLength="39.00" lengthAdjust="spacingAndGlyphs" class="m" font-size="13" xml:space="preserve">( ~ )</text></g>
+<g style="animation:smoke3 14.0s ease-out infinite"><text x="207.40" y="350.00" textLength="46.80" lengthAdjust="spacingAndGlyphs" class="m" font-size="13" xml:space="preserve">(~  ~)</text></g>
+<g style="animation:smoke4 14.0s ease-out infinite"><text x="129.40" y="350.00" textLength="46.80" lengthAdjust="spacingAndGlyphs" class="m" font-size="13" xml:space="preserve">(  ~ )</text></g>
+<g style="animation:smoke5 14.0s ease-out infinite"><text x="191.80" y="350.00" textLength="46.80" lengthAdjust="spacingAndGlyphs" class="m" font-size="13" xml:space="preserve">( ~~ )</text></g>
+<rect x="16" y="16" width="392" height="120" fill="url(#fadeTop)"/>
+</g>
+<text x="32.00" y="38.00" textLength="165.00" lengthAdjust="spacingAndGlyphs" class="m" font-size="11" xml:space="preserve">PAD-01 // FLIGHT COMPUTER</text>
+<g style="animation:cd0 14.0s linear infinite"><text x="32.00" y="66.00" textLength="52.80" lengthAdjust="spacingAndGlyphs" class="y" font-size="22" font-weight="800" xml:space="preserve">T-03</text></g>
+<g style="animation:cd1 14.0s linear infinite"><text x="32.00" y="66.00" textLength="52.80" lengthAdjust="spacingAndGlyphs" class="y" font-size="22" font-weight="800" xml:space="preserve">T-02</text></g>
+<g style="animation:cd2 14.0s linear infinite"><text x="32.00" y="66.00" textLength="52.80" lengthAdjust="spacingAndGlyphs" class="y" font-size="22" font-weight="800" xml:space="preserve">T-01</text></g>
+<g style="animation:cd3 14.0s linear infinite"><text x="32.00" y="66.00" textLength="105.60" lengthAdjust="spacingAndGlyphs" class="o" font-size="22" font-weight="800" xml:space="preserve">IGNITION</text></g>
+<g style="animation:cd4 14.0s linear infinite"><text x="32.00" y="66.00" textLength="92.40" lengthAdjust="spacingAndGlyphs" class="g" font-size="22" font-weight="800" xml:space="preserve">LIFTOFF</text></g>
+<g style="animation:cd5 14.0s linear infinite"><text x="32.00" y="66.00" textLength="79.20" lengthAdjust="spacingAndGlyphs" class="b" font-size="22" font-weight="800" xml:space="preserve">APOGEE</text></g>
+<rect x="382" y="80" width="6" height="270.0" rx="3" fill="#161b22" stroke="#30363d"/>
+<line x1="377" x2="382" y1="350.0" y2="350.0" stroke="#484f58"/>
+<text x="368.00" y="353.50" textLength="6.00" lengthAdjust="spacingAndGlyphs" class="d" font-size="10" xml:space="preserve">0</text>
+<line x1="377" x2="382" y1="296.0" y2="296.0" stroke="#484f58"/>
+<text x="356.00" y="299.50" textLength="18.00" lengthAdjust="spacingAndGlyphs" class="d" font-size="10" xml:space="preserve">100</text>
+<line x1="377" x2="382" y1="242.0" y2="242.0" stroke="#484f58"/>
+<text x="356.00" y="245.50" textLength="18.00" lengthAdjust="spacingAndGlyphs" class="d" font-size="10" xml:space="preserve">200</text>
+<line x1="377" x2="382" y1="188.0" y2="188.0" stroke="#484f58"/>
+<text x="356.00" y="191.50" textLength="18.00" lengthAdjust="spacingAndGlyphs" class="d" font-size="10" xml:space="preserve">300</text>
+<line x1="377" x2="382" y1="134.0" y2="134.0" stroke="#484f58"/>
+<text x="356.00" y="137.50" textLength="18.00" lengthAdjust="spacingAndGlyphs" class="d" font-size="10" xml:space="preserve">400</text>
+<line x1="377" x2="382" y1="80.0" y2="80.0" stroke="#484f58"/>
+<text x="356.00" y="83.50" textLength="18.00" lengthAdjust="spacingAndGlyphs" class="d" font-size="10" xml:space="preserve">500</text>
+<line x1="378" x2="392" y1="86.2" y2="86.2" stroke="#e3b341" stroke-dasharray="2 2"/>
+<rect x="383" y="81" width="4" height="268.0" rx="2" fill="url(#gauge)" style="transform-box:fill-box;transform-origin:50% 100%;animation:gfill 14.0s linear infinite"/>
+<text x="286.00" y="38.00" textLength="19.80" lengthAdjust="spacingAndGlyphs" class="m" font-size="11" xml:space="preserve">ALT</text>
+<g style="animation:alt0 14.0s linear infinite"><text x="310.00" y="38.00" textLength="50.40" lengthAdjust="spacingAndGlyphs" class="t" font-size="12" font-weight="700" xml:space="preserve">000.0 m</text></g>
+<g style="animation:alt1 14.0s linear infinite"><text x="310.00" y="38.00" textLength="50.40" lengthAdjust="spacingAndGlyphs" class="t" font-size="12" font-weight="700" xml:space="preserve">002.5 m</text></g>
+<g style="animation:alt2 14.0s linear infinite"><text x="310.00" y="38.00" textLength="50.40" lengthAdjust="spacingAndGlyphs" class="t" font-size="12" font-weight="700" xml:space="preserve">010.0 m</text></g>
+<g style="animation:alt3 14.0s linear infinite"><text x="310.00" y="38.00" textLength="50.40" lengthAdjust="spacingAndGlyphs" class="t" font-size="12" font-weight="700" xml:space="preserve">022.4 m</text></g>
+<g style="animation:alt4 14.0s linear infinite"><text x="310.00" y="38.00" textLength="50.40" lengthAdjust="spacingAndGlyphs" class="t" font-size="12" font-weight="700" xml:space="preserve">039.9 m</text></g>
+<g style="animation:alt5 14.0s linear infinite"><text x="310.00" y="38.00" textLength="50.40" lengthAdjust="spacingAndGlyphs" class="t" font-size="12" font-weight="700" xml:space="preserve">062.3 m</text></g>
+<g style="animation:alt6 14.0s linear infinite"><text x="310.00" y="38.00" textLength="50.40" lengthAdjust="spacingAndGlyphs" class="t" font-size="12" font-weight="700" xml:space="preserve">089.7 m</text></g>
+<g style="animation:alt7 14.0s linear infinite"><text x="310.00" y="38.00" textLength="50.40" lengthAdjust="spacingAndGlyphs" class="t" font-size="12" font-weight="700" xml:space="preserve">122.1 m</text></g>
+<g style="animation:alt8 14.0s linear infinite"><text x="310.00" y="38.00" textLength="50.40" lengthAdjust="spacingAndGlyphs" class="t" font-size="12" font-weight="700" xml:space="preserve">159.5 m</text></g>
+<g style="animation:alt9 14.0s linear infinite"><text x="310.00" y="38.00" textLength="50.40" lengthAdjust="spacingAndGlyphs" class="t" font-size="12" font-weight="700" xml:space="preserve">201.9 m</text></g>
+<g style="animation:alt10 14.0s linear infinite"><text x="310.00" y="38.00" textLength="50.40" lengthAdjust="spacingAndGlyphs" class="t" font-size="12" font-weight="700" xml:space="preserve">249.2 m</text></g>
+<g style="animation:alt11 14.0s linear infinite"><text x="310.00" y="38.00" textLength="50.40" lengthAdjust="spacingAndGlyphs" class="t" font-size="12" font-weight="700" xml:space="preserve">301.6 m</text></g>
+<g style="animation:alt12 14.0s linear infinite"><text x="310.00" y="38.00" textLength="50.40" lengthAdjust="spacingAndGlyphs" class="t" font-size="12" font-weight="700" xml:space="preserve">358.9 m</text></g>
+<g style="animation:alt13 14.0s linear infinite"><text x="310.00" y="38.00" textLength="50.40" lengthAdjust="spacingAndGlyphs" class="t" font-size="12" font-weight="700" xml:space="preserve">421.2 m</text></g>
+<g style="animation:alt14 14.0s linear infinite"><text x="310.00" y="38.00" textLength="50.40" lengthAdjust="spacingAndGlyphs" class="y" font-size="12" font-weight="700" xml:space="preserve">488.5 m</text></g>
+<text x="436.00" y="52.00" textLength="158.40" lengthAdjust="spacingAndGlyphs" class="m" font-size="12" xml:space="preserve">&gt; PILOT // GIGOMIERI05</text>
+<text x="436.00" y="94.00" textLength="352.00" lengthAdjust="spacingAndGlyphs" class="t" font-size="34" font-weight="800" xml:space="preserve">GIOVANNI DE LUCA</text>
+<text x="436.00" y="134.00" textLength="154.00" lengthAdjust="spacingAndGlyphs" class="b" font-size="34" font-weight="800" xml:space="preserve">GOMIERI</text>
+<rect x="598" y="111" width="14" height="26" fill="#58a6ff" class="blink"/>
+<clipPath id="role0"><rect x="436" y="150" height="30" width="0"><animate attributeName="width" dur="17.5s" repeatCount="indefinite" calcMode="discrete" values="0.0;25.2;33.6;42.0;50.4;58.8;67.2;75.6;84.0;92.4;100.8;109.2;117.6;126.0;134.4;142.8;151.2;159.6;168.0;176.4;184.8;193.2;201.6;210.0;218.4;226.8;235.2;243.6;252.0;260.4;260.4;0.0;0.0" keyTimes="0.0000;0.0026;0.0051;0.0077;0.0103;0.0129;0.0154;0.0180;0.0206;0.0231;0.0257;0.0283;0.0309;0.0334;0.0360;0.0386;0.0411;0.0437;0.0463;0.0489;0.0514;0.0540;0.0566;0.0591;0.0617;0.0643;0.0669;0.0694;0.0720;0.0746;0.1800;0.2000;1.0000"/></rect></clipPath>
+<g clip-path="url(#role0)"><text x="436.00" y="170.00" textLength="260.40" lengthAdjust="spacingAndGlyphs" class="g" font-size="14" font-weight="600" xml:space="preserve">&gt; Computer Engineering @ FACENS</text></g>
+<clipPath id="role1"><rect x="436" y="150" height="30" width="0"><animate attributeName="width" dur="17.5s" repeatCount="indefinite" calcMode="discrete" values="0.0;0.0;25.2;33.6;42.0;50.4;58.8;67.2;75.6;84.0;92.4;100.8;109.2;117.6;126.0;134.4;142.8;151.2;159.6;168.0;176.4;184.8;193.2;201.6;210.0;218.4;226.8;235.2;243.6;252.0;260.4;268.8;277.2;285.6;285.6;0.0;0.0" keyTimes="0.0000;0.2000;0.2026;0.2051;0.2077;0.2103;0.2129;0.2154;0.2180;0.2206;0.2231;0.2257;0.2283;0.2309;0.2334;0.2360;0.2386;0.2411;0.2437;0.2463;0.2489;0.2514;0.2540;0.2566;0.2591;0.2617;0.2643;0.2669;0.2694;0.2720;0.2746;0.2771;0.2797;0.2823;0.3800;0.4000;1.0000"/></rect></clipPath>
+<g clip-path="url(#role1)"><text x="436.00" y="170.00" textLength="285.60" lengthAdjust="spacingAndGlyphs" class="o" font-size="14" font-weight="600" xml:space="preserve">&gt; Founder &amp; Developer @ RDB Futura</text></g>
+<clipPath id="role2"><rect x="436" y="150" height="30" width="0"><animate attributeName="width" dur="17.5s" repeatCount="indefinite" calcMode="discrete" values="0.0;0.0;25.2;33.6;42.0;50.4;58.8;67.2;75.6;84.0;92.4;100.8;109.2;117.6;126.0;134.4;142.8;151.2;159.6;168.0;176.4;184.8;193.2;201.6;210.0;218.4;226.8;235.2;243.6;252.0;260.4;268.8;277.2;285.6;294.0;294.0;0.0;0.0" keyTimes="0.0000;0.4000;0.4026;0.4051;0.4077;0.4103;0.4129;0.4154;0.4180;0.4206;0.4231;0.4257;0.4283;0.4309;0.4334;0.4360;0.4386;0.4411;0.4437;0.4463;0.4489;0.4514;0.4540;0.4566;0.4591;0.4617;0.4643;0.4669;0.4694;0.4720;0.4746;0.4771;0.4797;0.4823;0.4849;0.5800;0.6000;1.0000"/></rect></clipPath>
+<g clip-path="url(#role2)"><text x="436.00" y="170.00" textLength="294.00" lengthAdjust="spacingAndGlyphs" class="b" font-size="14" font-weight="600" xml:space="preserve">&gt; Building software + physical tech</text></g>
+<clipPath id="role3"><rect x="436" y="150" height="30" width="0"><animate attributeName="width" dur="17.5s" repeatCount="indefinite" calcMode="discrete" values="0.0;0.0;25.2;33.6;42.0;50.4;58.8;67.2;75.6;84.0;92.4;100.8;109.2;117.6;126.0;134.4;142.8;151.2;159.6;168.0;176.4;184.8;193.2;201.6;210.0;218.4;226.8;235.2;243.6;252.0;260.4;268.8;277.2;285.6;294.0;302.4;302.4;0.0;0.0" keyTimes="0.0000;0.6000;0.6026;0.6051;0.6077;0.6103;0.6129;0.6154;0.6180;0.6206;0.6231;0.6257;0.6283;0.6309;0.6334;0.6360;0.6386;0.6411;0.6437;0.6463;0.6489;0.6514;0.6540;0.6566;0.6591;0.6617;0.6643;0.6669;0.6694;0.6720;0.6746;0.6771;0.6797;0.6823;0.6849;0.6874;0.7800;0.8000;1.0000"/></rect></clipPath>
+<g clip-path="url(#role3)"><text x="436.00" y="170.00" textLength="302.40" lengthAdjust="spacingAndGlyphs" class="p" font-size="14" font-weight="600" xml:space="preserve">&gt; Competitive Programming · Robotics</text></g>
+<clipPath id="role4"><rect x="436" y="150" height="30" width="0"><animate attributeName="width" dur="17.5s" repeatCount="indefinite" calcMode="discrete" values="0.0;0.0;25.2;33.6;42.0;50.4;58.8;67.2;75.6;84.0;92.4;100.8;109.2;117.6;126.0;134.4;142.8;151.2;159.6;168.0;176.4;184.8;193.2;201.6;210.0;218.4;226.8;235.2;243.6;252.0;260.4;268.8;277.2;285.6;294.0;302.4;302.4;0.0" keyTimes="0.0000;0.8000;0.8026;0.8051;0.8077;0.8103;0.8129;0.8154;0.8180;0.8206;0.8231;0.8257;0.8283;0.8309;0.8334;0.8360;0.8386;0.8411;0.8437;0.8463;0.8489;0.8514;0.8540;0.8566;0.8591;0.8617;0.8643;0.8669;0.8694;0.8720;0.8746;0.8771;0.8797;0.8823;0.8849;0.8874;0.9800;1.0000"/></rect></clipPath>
+<g clip-path="url(#role4)"><text x="436.00" y="170.00" textLength="302.40" lengthAdjust="spacingAndGlyphs" class="y" font-size="14" font-weight="600" xml:space="preserve">&gt; National Rocketry Record · 488.5 m</text></g>
+<rect x="428" y="192" width="394" height="190" rx="10" fill="#0b0f17" stroke="#30363d"/>
+<text x="442.00" y="214.00" textLength="79.20" lengthAdjust="spacingAndGlyphs" class="m" font-size="12" xml:space="preserve">MISSION LOG</text>
+<circle cx="540" cy="210" r="3.5" fill="#ff7b72" class="blink"/>
+<text x="548.00" y="214.00" textLength="21.60" lengthAdjust="spacingAndGlyphs" class="r" font-size="12" xml:space="preserve">REC</text>
+<g style="animation:log0 14.0s linear infinite"><text x="442.00" y="240.00" textLength="249.60" lengthAdjust="spacingAndGlyphs" class="g" font-size="13" font-weight="600" xml:space="preserve">T-03  GO / NO-GO POLL ....... GO</text></g>
+<g style="animation:log1 14.0s linear infinite"><text x="442.00" y="261.00" textLength="249.60" lengthAdjust="spacingAndGlyphs" class="t" font-size="13" font-weight="600" xml:space="preserve">T-01  ARM RETRACT ........... OK</text></g>
+<g style="animation:log2 14.0s linear infinite"><text x="442.00" y="282.00" textLength="249.60" lengthAdjust="spacingAndGlyphs" class="o" font-size="13" font-weight="600" xml:space="preserve">T+00  IGNITION .............. OK</text></g>
+<g style="animation:log3 14.0s linear infinite"><text x="442.00" y="303.00" textLength="249.60" lengthAdjust="spacingAndGlyphs" class="g" font-size="13" font-weight="600" xml:space="preserve">T+01  LIFTOFF ............... OK</text></g>
+<g style="animation:log4 14.0s linear infinite"><text x="442.00" y="324.00" textLength="249.60" lengthAdjust="spacingAndGlyphs" class="t" font-size="13" font-weight="600" xml:space="preserve">T+03  MAX-Q ................. OK</text></g>
+<g style="animation:log5 14.0s linear infinite"><text x="442.00" y="345.00" textLength="249.60" lengthAdjust="spacingAndGlyphs" class="b" font-size="13" font-weight="600" xml:space="preserve">T+04  APOGEE ........... 488.5 m</text></g>
+<g style="animation:log6 14.0s linear infinite"><text x="442.00" y="366.00" textLength="249.60" lengthAdjust="spacingAndGlyphs" class="y" font-size="13" font-weight="600" xml:space="preserve">T+05  NATIONAL RECORD ........ ★</text></g>
+</svg>

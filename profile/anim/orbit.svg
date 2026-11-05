@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="340" viewBox="0 0 840 340" role="img" aria-label="RDB Futura — the system in orbit">
+<title>RDB Futura — the system in orbit</title>
+<style>
+text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace;}
+.m{fill:#8b949e} .d{fill:#484f58} .t{fill:#c9d1d9} .b{fill:#58a6ff} .g{fill:#3fb950} .o{fill:#f0883e} .y{fill:#e3b341} .r{fill:#ff7b72} .p{fill:#bc8cff}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes twinkle{0%,100%{opacity:.25}50%{opacity:1}}
+.blink{animation:blink 1.05s steps(1,end) infinite}
+
+</style>
+<rect x="0.5" y="0.5" width="839.0" height="339.0" rx="14" fill="#0d1117" stroke="#30363d"/>
+<circle cx="276.2" cy="59.7" r="0.6" fill="#c9d1d9" style="animation:twinkle 2.44s ease-in-out -2.68s infinite"/>
+<circle cx="487.6" cy="299.5" r="0.8" fill="#c9d1d9" style="animation:twinkle 2.32s ease-in-out -2.17s infinite"/>
+<circle cx="208.4" cy="186.1" r="0.6" fill="#c9d1d9" style="animation:twinkle 4.93s ease-in-out -0.62s infinite"/>
+<circle cx="526.6" cy="196.2" r="0.6" fill="#c9d1d9" style="animation:twinkle 4.10s ease-in-out -1.98s infinite"/>
+<circle cx="50.0" cy="283.3" r="0.8" fill="#a5d6ff" style="animation:twinkle 3.58s ease-in-out -2.70s infinite"/>
+<circle cx="263.7" cy="269.9" r="0.8" fill="#c9d1d9" style="animation:twinkle 2.54s ease-in-out -2.86s infinite"/>
+<circle cx="315.9" cy="185.1" r="0.6" fill="#58a6ff" style="animation:twinkle 4.06s ease-in-out -3.10s infinite"/>
+<circle cx="567.2" cy="147.1" r="0.8" fill="#c9d1d9" style="animation:twinkle 3.74s ease-in-out -4.62s infinite"/>
+<circle cx="256.6" cy="263.0" r="0.8" fill="#58a6ff" style="animation:twinkle 2.47s ease-in-out -1.50s infinite"/>
+<circle cx="726.1" cy="242.5" r="0.8" fill="#a5d6ff" style="animation:twinkle 4.21s ease-in-out -0.37s infinite"/>
+<circle cx="353.2" cy="251.3" r="0.8" fill="#c9d1d9" style="animation:twinkle 5.28s ease-in-out -2.11s infinite"/>
+<circle cx="635.9" cy="193.1" r="0.8" fill="#58a6ff" style="animation:twinkle 3.32s ease-in-out -1.75s infinite"/>
+<circle cx="485.2" cy="156.2" r="0.6" fill="#c9d1d9" style="animation:twinkle 5.32s ease-in-out -2.37s infinite"/>
+<circle cx="61.5" cy="233.7" r="1.3" fill="#c9d1d9" style="animation:twinkle 5.48s ease-in-out -4.11s infinite"/>
+<circle cx="596.8" cy="292.3" r="0.8" fill="#c9d1d9" style="animation:twinkle 2.27s ease-in-out -2.31s infinite"/>
+<circle cx="510.5" cy="168.0" r="0.8" fill="#c9d1d9" style="animation:twinkle 4.74s ease-in-out -0.65s infinite"/>
+<circle cx="336.7" cy="301.7" r="1.0" fill="#a5d6ff" style="animation:twinkle 2.47s ease-in-out -2.25s infinite"/>
+<circle cx="238.7" cy="55.3" r="1.0" fill="#58a6ff" style="animation:twinkle 5.05s ease-in-out -1.39s infinite"/>
+<circle cx="817.0" cy="227.7" r="1.0" fill="#c9d1d9" style="animation:twinkle 5.36s ease-in-out -0.75s infinite"/>
+<circle cx="135.5" cy="220.1" r="0.6" fill="#c9d1d9" style="animation:twinkle 3.80s ease-in-out -2.95s infinite"/>
+<circle cx="242.1" cy="58.0" r="1.3" fill="#c9d1d9" style="animation:twinkle 3.42s ease-in-out -2.83s infinite"/>
+<circle cx="575.4" cy="174.9" r="1.3" fill="#58a6ff" style="animation:twinkle 4.36s ease-in-out -3.70s infinite"/>
+<circle cx="746.0" cy="258.5" r="1.3" fill="#c9d1d9" style="animation:twinkle 3.49s ease-in-out -1.99s infinite"/>
+<circle cx="404.9" cy="138.5" r="0.8" fill="#c9d1d9" style="animation:twinkle 2.42s ease-in-out -1.04s infinite"/>
+<circle cx="101.7" cy="201.8" r="0.6" fill="#c9d1d9" style="animation:twinkle 2.20s ease-in-out -0.76s infinite"/>
+<circle cx="786.3" cy="205.9" r="0.6" fill="#c9d1d9" style="animation:twinkle 5.09s ease-in-out -3.07s infinite"/>
+<circle cx="529.7" cy="313.9" r="1.3" fill="#58a6ff" style="animation:twinkle 3.40s ease-in-out -0.61s infinite"/>
+<circle cx="822.4" cy="159.3" r="1.0" fill="#c9d1d9" style="animation:twinkle 3.23s ease-in-out -0.72s infinite"/>
+<circle cx="616.1" cy="163.2" r="0.8" fill="#a5d6ff" style="animation:twinkle 3.90s ease-in-out -1.03s infinite"/>
+<circle cx="307.2" cy="230.1" r="0.6" fill="#c9d1d9" style="animation:twinkle 4.70s ease-in-out -1.49s infinite"/>
+<circle cx="580.1" cy="94.5" r="0.8" fill="#c9d1d9" style="animation:twinkle 5.20s ease-in-out -1.78s infinite"/>
+<circle cx="446.6" cy="258.2" r="0.8" fill="#c9d1d9" style="animation:twinkle 4.30s ease-in-out -3.07s infinite"/>
+<circle cx="669.8" cy="270.6" r="0.8" fill="#c9d1d9" style="animation:twinkle 2.86s ease-in-out -2.46s infinite"/>
+<circle cx="819.5" cy="261.7" r="1.0" fill="#c9d1d9" style="animation:twinkle 3.06s ease-in-out -3.46s infinite"/>
+<circle cx="376.9" cy="308.1" r="0.8" fill="#c9d1d9" style="animation:twinkle 5.35s ease-in-out -1.82s infinite"/>
+<circle cx="95.4" cy="160.5" r="0.8" fill="#a5d6ff" style="animation:twinkle 2.87s ease-in-out -3.12s infinite"/>
+<circle cx="697.8" cy="163.5" r="0.8" fill="#c9d1d9" style="animation:twinkle 4.84s ease-in-out -0.42s infinite"/>
+<circle cx="754.4" cy="259.2" r="0.8" fill="#c9d1d9" style="animation:twinkle 3.78s ease-in-out -0.89s infinite"/>
+<circle cx="82.8" cy="311.0" r="1.0" fill="#c9d1d9" style="animation:twinkle 3.73s ease-in-out -3.72s infinite"/>
+<circle cx="603.4" cy="65.7" r="0.8" fill="#58a6ff" style="animation:twinkle 2.29s ease-in-out -2.95s infinite"/>
+<circle cx="670.1" cy="58.2" r="1.3" fill="#c9d1d9" style="animation:twinkle 5.44s ease-in-out -3.29s infinite"/>
+<circle cx="139.2" cy="185.3" r="0.6" fill="#c9d1d9" style="animation:twinkle 2.25s ease-in-out -4.85s infinite"/>
+<circle cx="441.7" cy="307.0" r="1.0" fill="#c9d1d9" style="animation:twinkle 5.46s ease-in-out -0.97s infinite"/>
+<circle cx="34.8" cy="79.2" r="1.3" fill="#c9d1d9" style="animation:twinkle 2.99s ease-in-out -2.93s infinite"/>
+<circle cx="456.2" cy="275.6" r="0.6" fill="#58a6ff" style="animation:twinkle 5.20s ease-in-out -1.77s infinite"/>
+<circle cx="552.6" cy="269.6" r="1.3" fill="#a5d6ff" style="animation:twinkle 3.59s ease-in-out -4.59s infinite"/>
+<circle cx="118.7" cy="60.0" r="1.3" fill="#c9d1d9" style="animation:twinkle 2.26s ease-in-out -2.20s infinite"/>
+<circle cx="508.6" cy="257.2" r="0.8" fill="#c9d1d9" style="animation:twinkle 2.77s ease-in-out -2.37s infinite"/>
+<circle cx="466.1" cy="115.0" r="1.3" fill="#c9d1d9" style="animation:twinkle 3.95s ease-in-out -2.41s infinite"/>
+<circle cx="732.7" cy="30.0" r="0.8" fill="#a5d6ff" style="animation:twinkle 3.11s ease-in-out -3.86s infinite"/>
+<circle cx="381.0" cy="20.8" r="0.6" fill="#a5d6ff" style="animation:twinkle 3.66s ease-in-out -3.06s infinite"/>
+<circle cx="506.6" cy="75.0" r="0.8" fill="#58a6ff" style="animation:twinkle 3.69s ease-in-out -2.67s infinite"/>
+<circle cx="426.3" cy="90.3" r="1.3" fill="#c9d1d9" style="animation:twinkle 5.09s ease-in-out -4.71s infinite"/>
+<circle cx="765.0" cy="294.1" r="0.8" fill="#c9d1d9" style="animation:twinkle 4.97s ease-in-out -0.69s infinite"/>
+<circle cx="332.2" cy="111.8" r="0.8" fill="#c9d1d9" style="animation:twinkle 3.61s ease-in-out -1.06s infinite"/>
+<circle cx="651.7" cy="295.5" r="0.8" fill="#c9d1d9" style="animation:twinkle 5.30s ease-in-out -3.22s infinite"/>
+<circle cx="128.7" cy="291.0" r="1.0" fill="#58a6ff" style="animation:twinkle 2.92s ease-in-out -4.76s infinite"/>
+<circle cx="734.1" cy="63.4" r="0.8" fill="#a5d6ff" style="animation:twinkle 2.73s ease-in-out -2.16s infinite"/>
+<circle cx="341.5" cy="145.1" r="0.8" fill="#c9d1d9" style="animation:twinkle 3.25s ease-in-out -3.61s infinite"/>
+<circle cx="287.8" cy="156.9" r="0.6" fill="#c9d1d9" style="animation:twinkle 3.47s ease-in-out -2.59s infinite"/>
+<defs><radialGradient id="planet" cx=".35" cy=".3" r=".8"><stop offset="0" stop-color="#2f81f7"/><stop offset=".55" stop-color="#1f3b6e"/><stop offset="1" stop-color="#0d1117"/></radialGradient><radialGradient id="glow"><stop offset="0" stop-color="#58a6ff" stop-opacity=".35"/><stop offset="1" stop-color="#58a6ff" stop-opacity="0"/></radialGradient></defs>
+<ellipse cx="420" cy="168" rx="215" ry="64" fill="none" stroke="#30363d" stroke-dasharray="2 5"/>
+<ellipse cx="420" cy="168" rx="330" ry="116" fill="none" stroke="#30363d" stroke-dasharray="2 5"/>
+<circle cx="420" cy="168" r="110" fill="url(#glow)"/>
+<circle cx="420" cy="168" r="46" fill="url(#planet)" stroke="#388bfd" stroke-opacity=".5"/>
+<text x="375.00" y="173.00" textLength="90.00" lengthAdjust="spacingAndGlyphs" class="t" font-size="15" font-weight="800" xml:space="preserve">RDB FUTURA</text>
+<g><circle r="6" fill="#3fb950"/><circle r="11" fill="#3fb950" opacity=".18"/><rect x="-91.8" y="-36" width="183.6" height="22" rx="11" fill="#161b22" stroke="#30363d"/><text x="-82.80" y="-21.00" textLength="165.60" lengthAdjust="spacingAndGlyphs" class="t" font-size="12" xml:space="preserve">hands-on STEAM missions</text><animateMotion dur="26s" begin="0.00s" repeatCount="indefinite" path="M205 168 a215 64 0 1 0 430 0 a215 64 0 1 0 -430 0"/></g>
+<g><circle r="6" fill="#3fb950"/><circle r="11" fill="#3fb950" opacity=".18"/><rect x="-70.2" y="-36" width="140.4" height="22" rx="11" fill="#161b22" stroke="#30363d"/><text x="-61.20" y="-21.00" textLength="122.40" lengthAdjust="spacingAndGlyphs" class="t" font-size="12" xml:space="preserve">gamified platform</text><animateMotion dur="26s" begin="-8.67s" repeatCount="indefinite" path="M205 168 a215 64 0 1 0 430 0 a215 64 0 1 0 -430 0"/></g>
+<g><circle r="6" fill="#3fb950"/><circle r="11" fill="#3fb950" opacity=".18"/><rect x="-55.8" y="-36" width="111.6" height="22" rx="11" fill="#161b22" stroke="#30363d"/><text x="-46.80" y="-21.00" textLength="93.60" lengthAdjust="spacingAndGlyphs" class="t" font-size="12" xml:space="preserve">physical kits</text><animateMotion dur="26s" begin="-17.33s" repeatCount="indefinite" path="M205 168 a215 64 0 1 0 430 0 a215 64 0 1 0 -430 0"/></g>
+<g><circle r="6" fill="#f0883e"/><circle r="11" fill="#f0883e" opacity=".18"/><rect x="-84.6" y="-36" width="169.2" height="22" rx="11" fill="#161b22" stroke="#30363d"/><text x="-75.60" y="-21.00" textLength="151.20" lengthAdjust="spacingAndGlyphs" class="t" font-size="12" xml:space="preserve">BNCC-aligned evidence</text><animateMotion dur="40s" begin="0.00s" repeatCount="indefinite" path="M90 168 a330 116 0 1 0 660 0 a330 116 0 1 0 -660 0"/></g>
+<g><circle r="6" fill="#f0883e"/><circle r="11" fill="#f0883e" opacity=".18"/><rect x="-88.2" y="-36" width="176.4" height="22" rx="11" fill="#161b22" stroke="#30363d"/><text x="-79.20" y="-21.00" textLength="158.40" lengthAdjust="spacingAndGlyphs" class="t" font-size="12" xml:space="preserve">astronomy as a gateway</text><animateMotion dur="40s" begin="-20.00s" repeatCount="indefinite" path="M90 168 a330 116 0 1 0 660 0 a330 116 0 1 0 -660 0"/></g>
+<text x="24.00" y="320.00" textLength="439.20" lengthAdjust="spacingAndGlyphs" class="m" font-size="12" xml:space="preserve">mission: transform theory into practical learning experiences</text>
+<text x="686.40" y="320.00" textLength="129.60" lengthAdjust="spacingAndGlyphs" class="b" font-size="12" xml:space="preserve">rdbfutura.com.br ↗</text>
+</svg>
