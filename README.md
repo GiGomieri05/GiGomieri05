@@ -1,113 +1,58 @@
 <div align="center">
 
-<img src="https://em-content.zobj.net/source/microsoft/319/rocket_1f680.png" width="88" alt="Rocket" />
-
-# Giovanni de Luca Gomieri
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=850&color=58A6FF&center=true&vCenter=true&width=760&lines=Computer+Engineering+%40+FACENS;Founder+%26+Developer+%40+RDB+Futura;Building+software+%2B+physical+technology;Competitive+Programming+%7C+Robotics+%7C+EdTech;National+Rocketry+Record+%7C+488.5m" alt="Typing intro" />
+<a href="https://github.com/GiGomieri05">
+  <img src="profile/anim/hero.svg" width="100%" alt="ASCII rocket launching from pad 01 next to the name Giovanni de Luca Gomieri, with a live mission log reaching apogee at 488.5 m" />
+</a>
 
 <p>
   <a href="https://github.com/GiGomieri05"><img src="https://img.shields.io/badge/SOROCABA%2C%20BRAZIL-0d1117?style=for-the-badge&logo=googlemaps&logoColor=58a6ff" /></a>
   <a href="https://facens.br"><img src="https://img.shields.io/badge/FACENS-COMPUTER%20ENGINEERING-0d1117?style=for-the-badge&logoColor=58a6ff" /></a>
   <a href="https://rdbfutura.com.br"><img src="https://img.shields.io/badge/RDB%20FUTURA-FOUNDER-0d1117?style=for-the-badge&logo=rocket&logoColor=3fb950" /></a>
+  <a href="https://linkedin.com/in/giovannigomieri"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" /></a>
 </p>
 
 `ENGINEERING` · `SOFTWARE` · `ROCKETRY` · `EDTECH` · `ROBOTICS` · `ASTRONOMY`
 
-<br />
-
-<sub>BUILDING SYSTEMS THAT TURN IDEAS INTO SOMETHING YOU CAN SEE, TEST AND LAUNCH.</sub>
-
 </div>
 
----
+<img src="profile/anim/divider.svg" width="100%" alt="" />
 
-## `> system.profile`
+## `> boot.sequence`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img src="profile/anim/terminal.svg" width="100%" alt="Terminal: whoami returns Giovanni de Luca Gomieri, Sorocaba, Brazil; roles are founder and developer at RDB Futura, Computer Engineering student at FACENS and technology teacher" />
 
-### `IDENTITY`
+I work where **software meets the physical world**: digital products, embedded systems, educational technology, robotics and practical science experiences. I'm most interested in problems that cross layers of engineering, instead of treating software, hardware and product as isolated worlds.
 
-```yaml
-name: Giovanni de Luca Gomieri
-location: Sorocaba, SP, Brazil
-university: FACENS
-course: Computer Engineering
-roles:
-  - Founder & Developer
-  - Engineering Student
-  - Technology Teacher
-```
-
-</td>
-<td width="50%" valign="top">
-
-### `CURRENT VECTOR`
-
-```yaml
-building: RDB Futura
-studying: Competitive Programming
-exploring:
-  - Embedded Systems
-  - Robotics & IoT
-  - Cloud Architecture
-  - Astronomy & Rocketry
-```
-
-</td>
-</tr>
-</table>
-
-I work where **software meets the physical world**: digital products, embedded systems, educational technology, robotics and practical science experiences.
-
-My main project today is **RDB Futura**, an EdTech initiative focused on hands-on STEAM experiences, gamification and evidence of practical learning.
-
----
+<img src="profile/anim/divider.svg" width="100%" alt="" />
 
 ## `> mission.control`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img src="profile/anim/flight-profile.svg" width="100%" alt="Flight profile chart: ascent to an apogee of 488.5 m, the national rocketry record, followed by parachute recovery. 26 awards, 2x AMERIFOG champion, Copa Paulista champion, 46ª Jornada Brasileira de Foguetes" />
 
-### 🚀 `ROCKETRY / FLIGHT DATA`
-
-<h2 align="center">488.5 m</h2>
-<p align="center"><b>National Rocketry Record</b></p>
-
-**MOBFOG / Jornada Brasileira de Foguetes**
-
-- National record
-- 46ª Jornada Brasileira de Foguetes
-- Copa Paulista Champion
-- 2× AMERIFOG Champion
-- 26 awards and counting
-
-</td>
-<td width="50%" valign="top">
-
-### 🛰️ `RDB FUTURA / ACTIVE SYSTEM`
-
-**Mission:** transform theory into practical learning experiences.
+<details>
+<summary><b>🚀 flight log</b> <sub>(click to expand)</sub></summary>
+<br />
 
 ```text
-RDB FUTURA
-│
-├── STEAM hands-on missions
-├── gamified learning platform
-├── physical educational kits
-├── BNCC-aligned evidence
-└── astronomy as a gateway
-    to science & engineering
+MOBFOG / JORNADA BRASILEIRA DE FOGUETES
+├── national record ........... 488.5 m
+├── 46ª Jornada Brasileira de Foguetes
+├── Copa Paulista ............. champion
+├── AMERIFOG .................. 2× champion
+└── awards .................... 26 and counting
 ```
 
-</td>
-</tr>
-</table>
+</details>
 
----
+<img src="profile/anim/divider.svg" width="100%" alt="" />
+
+## `> rdb.futura --orbit`
+
+<img src="profile/anim/orbit.svg" width="100%" alt="RDB Futura at the center of an orbital system: hands-on STEAM missions, gamified platform, physical kits, BNCC-aligned evidence and astronomy as a gateway" />
+
+**[RDB Futura](https://rdbfutura.com.br)** is my EdTech initiative: hands-on STEAM missions, a gamified learning platform and physical kits that turn theory into evidence of practical learning, using astronomy as the gateway to science and engineering.
+
+<img src="profile/anim/divider.svg" width="100%" alt="" />
 
 ## `> tech.stack --organized`
 
@@ -194,7 +139,7 @@ RDB FUTURA
 </tr>
 </table>
 
----
+<img src="profile/anim/divider.svg" width="100%" alt="" />
 
 ## `> github.telemetry`
 
@@ -207,21 +152,17 @@ RDB FUTURA
   <sub>Telemetry is generated by GitHub Actions and stored inside this repository.</sub>
 </p>
 
----
-
 ## `> operating.mode`
 
 ```text
-[ BUILD ]  software products + educational technology
-[ LEARN ]  algorithms + competitive programming + systems
-[ TEST  ]  prototypes + hardware + hands-on experiences
-[ SHIP  ]  real products for real users
-[ LAUNCH]  sometimes literally 🚀
+[ BUILD  ]  software products + educational technology
+[ LEARN  ]  algorithms + competitive programming + systems
+[ TEST   ]  prototypes + hardware + hands-on experiences
+[ SHIP   ]  real products for real users
+[ LAUNCH ]  sometimes literally 🚀
 ```
 
-I am especially interested in solving problems that require combining different layers of engineering instead of treating software, hardware and product as isolated worlds.
-
----
+<img src="profile/anim/divider.svg" width="100%" alt="" />
 
 ## `> uplink --contact`
 
@@ -233,10 +174,12 @@ I am especially interested in solving problems that require combining different 
 
 <br /><br />
 
+<img src="profile/anim/footer.svg" width="100%" alt="“A ciência prática produz resultados concretos e visíveis.”" />
+
+<br />
+
 <img src="https://komarev.com/ghpvc/?username=GiGomieri05&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS" alt="Profile views" />
 
-<br /><br />
-
-<sub>“A ciência prática produz resultados concretos e visíveis.”</sub>
+<sub>animations are hand-made SVG, generated by <a href="scripts/build_profile_svgs.py"><code>scripts/build_profile_svgs.py</code></a></sub>
 
 </div>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="360" viewBox="0 0 840 360" role="img" aria-label="Flight profile of the 488.5 m national rocketry record">
+<title>Flight profile of the 488.5 m national rocketry record</title>
+<style>
+text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace;}
+.m{fill:#8b949e} .d{fill:#484f58} .t{fill:#c9d1d9} .b{fill:#58a6ff} .g{fill:#3fb950} .o{fill:#f0883e} .y{fill:#e3b341} .r{fill:#ff7b72} .p{fill:#bc8cff}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes twinkle{0%,100%{opacity:.25}50%{opacity:1}}
+.blink{animation:blink 1.05s steps(1,end) infinite}
+@keyframes draw1{0.000%{stroke-dashoffset:1;opacity:1} 3.333%{stroke-dashoffset:1;opacity:1} 20.000%{stroke-dashoffset:0;opacity:1} 94.167%{stroke-dashoffset:0;opacity:1} 99.167%{stroke-dashoffset:0;opacity:0} 100.000%{stroke-dashoffset:0;opacity:0}}
+@keyframes draw2{0.000%{stroke-dashoffset:1;opacity:1} 25.000%{stroke-dashoffset:1;opacity:1} 75.000%{stroke-dashoffset:0;opacity:1} 94.167%{stroke-dashoffset:0;opacity:1} 99.167%{stroke-dashoffset:0;opacity:0} 100.000%{stroke-dashoffset:0;opacity:0}}
+@keyframes mk1{0.000%{opacity:0} 3.250%{opacity:0} 3.333%{opacity:1} 20.417%{opacity:1} 20.500%{opacity:0} 100.000%{opacity:0}}
+@keyframes mk2{0.000%{opacity:0} 21.667%{opacity:0} 24.167%{opacity:1} 94.167%{opacity:1} 96.667%{opacity:0} 100.000%{opacity:0}}
+@keyframes ping{0%{transform:scale(1);opacity:.9}100%{transform:scale(4.2);opacity:0}}
+@keyframes apo{0.000%{opacity:0} 16.667%{opacity:0} 20.000%{opacity:1} 95.000%{opacity:1} 98.333%{opacity:0} 100.000%{opacity:0}}
+@keyframes lb{0.000%{opacity:0} 50.833%{opacity:0} 54.167%{opacity:1} 95.000%{opacity:1} 98.333%{opacity:0} 100.000%{opacity:0}}
+@keyframes chip0{0.000%{opacity:0;transform:translateY(6px)} 25.000%{opacity:0;transform:translateY(6px)} 30.000%{opacity:1;transform:translateY(0px)} 94.167%{opacity:1;transform:translateY(0px)} 99.167%{opacity:0;transform:translateY(0px)} 100.000%{opacity:0;transform:translateY(0px)}}
+@keyframes chip1{0.000%{opacity:0;transform:translateY(6px)} 27.917%{opacity:0;transform:translateY(6px)} 32.917%{opacity:1;transform:translateY(0px)} 94.167%{opacity:1;transform:translateY(0px)} 99.167%{opacity:0;transform:translateY(0px)} 100.000%{opacity:0;transform:translateY(0px)}}
+@keyframes chip2{0.000%{opacity:0;transform:translateY(6px)} 30.833%{opacity:0;transform:translateY(6px)} 35.833%{opacity:1;transform:translateY(0px)} 94.167%{opacity:1;transform:translateY(0px)} 99.167%{opacity:0;transform:translateY(0px)} 100.000%{opacity:0;transform:translateY(0px)}}
+@keyframes chip3{0.000%{opacity:0;transform:translateY(6px)} 33.750%{opacity:0;transform:translateY(6px)} 38.750%{opacity:1;transform:translateY(0px)} 94.167%{opacity:1;transform:translateY(0px)} 99.167%{opacity:0;transform:translateY(0px)} 100.000%{opacity:0;transform:translateY(0px)}}
+</style>
+<rect x="0.5" y="0.5" width="839.0" height="359.0" rx="14" fill="#0d1117" stroke="#30363d"/>
+<text x="24.00" y="32.00" textLength="223.20" lengthAdjust="spacingAndGlyphs" class="m" font-size="12" xml:space="preserve">FLIGHT PROFILE // RECORD FLIGHT</text>
+<text x="653.60" y="32.00" textLength="158.40" lengthAdjust="spacingAndGlyphs" class="d" font-size="12" xml:space="preserve">MOBFOG · JORNADA BRAS.</text>
+<line x1="74" x2="812" y1="262.0" y2="262.0" stroke="#161b22"/>
+<text x="44.20" y="266.00" textLength="19.80" lengthAdjust="spacingAndGlyphs" class="d" font-size="11" xml:space="preserve">0 m</text>
+<line x1="74" x2="812" y1="230.4" y2="230.4" stroke="#161b22"/>
+<text x="31.00" y="234.40" textLength="33.00" lengthAdjust="spacingAndGlyphs" class="d" font-size="11" xml:space="preserve">100 m</text>
+<line x1="74" x2="812" y1="198.8" y2="198.8" stroke="#161b22"/>
+<text x="31.00" y="202.80" textLength="33.00" lengthAdjust="spacingAndGlyphs" class="d" font-size="11" xml:space="preserve">200 m</text>
+<line x1="74" x2="812" y1="167.2" y2="167.2" stroke="#161b22"/>
+<text x="31.00" y="171.20" textLength="33.00" lengthAdjust="spacingAndGlyphs" class="d" font-size="11" xml:space="preserve">300 m</text>
+<line x1="74" x2="812" y1="135.6" y2="135.6" stroke="#161b22"/>
+<text x="31.00" y="139.60" textLength="33.00" lengthAdjust="spacingAndGlyphs" class="d" font-size="11" xml:space="preserve">400 m</text>
+<line x1="74" x2="812" y1="104.0" y2="104.0" stroke="#161b22"/>
+<text x="31.00" y="108.00" textLength="33.00" lengthAdjust="spacingAndGlyphs" class="d" font-size="11" xml:space="preserve">500 m</text>
+<line x1="74" x2="812" y1="262" y2="262" stroke="#30363d"/>
+<path d="M90 262 C 134 142, 180 107.63399999999999, 300 107.63399999999999" fill="none" stroke="url(#asc)" stroke-width="3" stroke-linecap="round" pathLength="1" stroke-dasharray="1 1" style="animation:draw1 12.0s linear infinite"/>
+<defs><linearGradient id="asc" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#f0883e"/><stop offset="1" stop-color="#e3b341"/></linearGradient><mask id="dm"><path d="M300 107.63399999999999 C 440 107.63399999999999, 662 122, 782 262" fill="none" stroke="#fff" stroke-width="8" pathLength="1" stroke-dasharray="1 1" style="animation:draw2 12.0s linear infinite"/></mask></defs>
+<path d="M300 107.63399999999999 C 440 107.63399999999999, 662 122, 782 262" fill="none" stroke="#58a6ff" stroke-width="2" stroke-dasharray="3 7" stroke-linecap="round" mask="url(#dm)"/>
+<g style="animation:mk1 12.0s linear infinite"><path d="M7 0 L-5 -4.5 L-2 0 L-5 4.5 Z" fill="#e3b341"><animateMotion dur="12.0s" repeatCount="indefinite" rotate="auto" path="M90 262 C 134 142, 180 107.63399999999999, 300 107.63399999999999" keyPoints="0;0;1;1" keyTimes="0;0.0333;0.2000;1" calcMode="linear"/></path></g>
+<g style="animation:mk2 12.0s linear infinite"><g><path d="M-9 -6 A9 7 0 0 1 9 -6 Z" fill="#58a6ff" opacity=".9"/><path d="M-9 -6 L0 6 M9 -6 L0 6 M0 -6 L0 6" stroke="#58a6ff" stroke-width=".8"/><rect x="-1.5" y="5" width="3" height="7" fill="#c9d1d9"/><animateMotion dur="12.0s" repeatCount="indefinite" path="M300 107.63399999999999 C 440 107.63399999999999, 662 122, 782 262" keyPoints="0;0;1;1" keyTimes="0;0.2500;0.7500;1" calcMode="linear"/></g></g>
+<g style="animation:apo 12.0s linear infinite"><circle cx="300" cy="107.6" r="5" fill="#e3b341"/><circle cx="300" cy="107.6" r="5" fill="none" stroke="#e3b341" style="transform-box:fill-box;transform-origin:center;animation:ping 1.6s ease-out infinite"/><line x1="300" x2="300" y1="115.6" y2="262" stroke="#e3b341" stroke-dasharray="2 4" opacity=".5"/><text x="318.00" y="73.63" textLength="109.20" lengthAdjust="spacingAndGlyphs" class="y" font-size="26" font-weight="800" xml:space="preserve">488.5 m</text><text x="318.00" y="94.63" textLength="237.60" lengthAdjust="spacingAndGlyphs" class="t" font-size="12" font-weight="600" xml:space="preserve">APOGEE · NATIONAL ROCKETRY RECORD</text></g>
+<g style="animation:lb 12.0s linear infinite"><text x="616.00" y="248.00" textLength="144.00" lengthAdjust="spacingAndGlyphs" class="b" font-size="12" xml:space="preserve">recovery · parachute</text></g>
+<text x="78.00" y="280.00" textLength="244.80" lengthAdjust="spacingAndGlyphs" class="d" font-size="11" xml:space="preserve">launch  ·  illustrative trajectory</text>
+<g style="animation:chip0 12.0s linear infinite"><rect x="52.0" y="296" width="175.6" height="38" rx="19" fill="#161b22" stroke="#30363d"/><text x="66.00" y="321.00" textLength="19.20" lengthAdjust="spacingAndGlyphs" fill="#e3b341" font-size="16" font-weight="800" xml:space="preserve">26</text><text x="91.20" y="320.00" textLength="122.40" lengthAdjust="spacingAndGlyphs" class="t" font-size="12" xml:space="preserve">awards &amp; counting</text></g>
+<g style="animation:chip1 12.0s linear infinite"><rect x="239.6" y="296" width="175.6" height="38" rx="19" fill="#161b22" stroke="#30363d"/><text x="253.60" y="321.00" textLength="19.20" lengthAdjust="spacingAndGlyphs" fill="#3fb950" font-size="16" font-weight="800" xml:space="preserve">2×</text><text x="278.80" y="320.00" textLength="122.40" lengthAdjust="spacingAndGlyphs" class="t" font-size="12" xml:space="preserve">AMERIFOG champion</text></g>
+<g style="animation:chip2 12.0s linear infinite"><rect x="427.2" y="296" width="156.4" height="38" rx="19" fill="#161b22" stroke="#30363d"/><text x="441.20" y="321.00" textLength="28.80" lengthAdjust="spacingAndGlyphs" fill="#58a6ff" font-size="16" font-weight="800" xml:space="preserve">1st</text><text x="476.00" y="320.00" textLength="93.60" lengthAdjust="spacingAndGlyphs" class="t" font-size="12" xml:space="preserve">Copa Paulista</text></g>
+<g style="animation:chip3 12.0s linear infinite"><rect x="595.6" y="296" width="192.4" height="38" rx="19" fill="#161b22" stroke="#30363d"/><text x="609.60" y="321.00" textLength="28.80" lengthAdjust="spacingAndGlyphs" fill="#f0883e" font-size="16" font-weight="800" xml:space="preserve">46ª</text><text x="644.40" y="320.00" textLength="129.60" lengthAdjust="spacingAndGlyphs" class="t" font-size="12" xml:space="preserve">Jornada Brasileira</text></g>
+</svg>

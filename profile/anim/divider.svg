@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="24" viewBox="0 0 840 24" role="img" aria-label="divider">
+<title>divider</title>
+<style>
+text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace;}
+.m{fill:#8b949e} .d{fill:#484f58} .t{fill:#c9d1d9} .b{fill:#58a6ff} .g{fill:#3fb950} .o{fill:#f0883e} .y{fill:#e3b341} .r{fill:#ff7b72} .p{fill:#bc8cff}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes twinkle{0%,100%{opacity:.25}50%{opacity:1}}
+.blink{animation:blink 1.05s steps(1,end) infinite}
+@keyframes comet{0%{transform:translateX(-20px)}70%{transform:translateX(980px)}100%{transform:translateX(980px)}}
+</style>
+<defs><linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#30363d" stop-opacity="0"/><stop offset=".5" stop-color="#30363d"/><stop offset="1" stop-color="#30363d" stop-opacity="0"/></linearGradient><linearGradient id="tail" x1="0" x2="1"><stop offset="0" stop-color="#58a6ff" stop-opacity="0"/><stop offset="1" stop-color="#58a6ff"/></linearGradient></defs>
+<rect x="0" y="11.5" width="840" height="1" fill="url(#ln)"/>
+<g style="animation:comet 7s cubic-bezier(.45,0,.55,1) infinite"><rect x="-120" y="11" width="120" height="2" rx="1" fill="url(#tail)"/><circle cx="0" cy="12" r="3" fill="#a5d6ff"/><circle cx="0" cy="12" r="7" fill="#58a6ff" opacity=".25"/></g>
+</svg>
